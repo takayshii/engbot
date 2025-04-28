@@ -1,0 +1,154 @@
+{
+    "simple": [
+        {
+            "id": "present_simple",
+            "title": "Present Simple",
+            "explanation": "Used for habits, general truths, and permanent situations.",
+            "form": "Subject + V1 (add -s/-es for he/she/it)",
+            "examples": [
+                "I work every day",
+                "She works in an office",
+                "The sun rises in the east"
+            ],
+            "translation": "Настоящее простое время - для привычек, общих истин и постоянных ситуаций."
+        },
+        {
+            "id": "past_simple",
+            "title": "Past Simple",
+            "explanation": "Used for completed actions in the past.",
+            "form": "Subject + V2 (regular: -ed, irregular: special form)",
+            "examples": [
+                "I worked yesterday",
+                "She went to school",
+                "They visited London"
+            ],
+            "translation": "Прошедшее простое время - для завершенных действий в прошлом."
+        },
+        {
+            "id": "future_simple",
+            "title": "Future Simple",
+            "explanation": "Used for predictions and spontaneous decisions.",
+            "form": "Subject + will + V1",
+            "examples": [
+                "I will help you",
+                "She will call you",
+                "They will arrive tomorrow"
+            ],
+            "translation": "Будущее простое время - для предсказаний и спонтанных решений."
+        }
+    ],
+    "continuous": [
+        {
+            "id": "present_continuous",
+            "title": "Present Continuous",
+            "explanation": "Used for actions happening now or around now.",
+            "form": "Subject + am/is/are + V-ing",
+            "examples": [
+                "I am working now",
+                "She is studying",
+                "They are playing football"
+            ],
+            "translation": "Настоящее длительное время - для действий, происходящих сейчас."
+        },
+        {
+            "id": "past_continuous",
+            "title": "Past Continuous",
+            "explanation": "Used for actions in progress at a specific time in the past.",
+            "form": "Subject + was/were + V-ing",
+            "examples": [
+                "I was working at 5 PM",
+                "She was studying when I called",
+                "They were playing football"
+            ],
+            "translation": "Прошедшее длительное время - для действий в процессе в прошлом."
+        },
+        {
+            "id": "future_continuous",
+            "title": "Future Continuous",
+            "explanation": "Used for actions in progress at a specific time in the future.",
+            "form": "Subject + will be + V-ing",
+            "examples": [
+                "I will be working at 5 PM",
+                "She will be studying",
+                "They will be playing football"
+            ],
+            "translation": "Будущее длительное время - для действий в процессе в будущем."
+        }
+    ],
+    "perfect": [
+        {
+            "id": "present_perfect",
+            "title": "Present Perfect",
+            "explanation": "Used for actions that happened at an unspecified time before now.",
+            "form": "Subject + have/has + V3",
+            "examples": [
+                "I have worked here for 5 years",
+                "She has visited London",
+                "They have finished their homework"
+            ],
+            "translation": "Настоящее совершенное время - для действий, произошедших в неопределенное время до настоящего момента."
+        },
+        {
+            "id": "past_perfect",
+            "title": "Past Perfect",
+            "explanation": "Used for actions completed before another action in the past.",
+            "form": "Subject + had + V3",
+            "examples": [
+                "I had worked before I went home",
+                "She had visited London before she moved there",
+                "They had finished their homework before dinner"
+            ],
+            "translation": "Прошедшее совершенное время - для действий, завершенных до другого действия в прошлом."
+        },
+        {
+            "id": "future_perfect",
+            "title": "Future Perfect",
+            "explanation": "Used for actions that will be completed before a specific time in the future.",
+            "form": "Subject + will have + V3",
+            "examples": [
+                "I will have worked here for 5 years by next month",
+                "She will have visited London by the end of the year",
+                "They will have finished their homework by 8 PM"
+            ],
+            "translation": "Будущее совершенное время - для действий, которые будут завершены к определенному времени в будущем."
+        }
+    ],
+    "perfect_continuous": [
+        {
+            "id": "present_perfect_continuous",
+            "title": "Present Perfect Continuous",
+            "explanation": "Used for actions that started in the past and continue to the present.",
+            "form": "Subject + have/has been + V-ing",
+            "examples": [
+                "I have been working here for 5 years",
+                "She has been studying English",
+                "They have been playing football"
+            ],
+            "translation": "Настоящее совершенное длительное время - для действий, начавшихся в прошлом и продолжающихся до настоящего момента."
+        },
+        {
+            "id": "past_perfect_continuous",
+            "title": "Past Perfect Continuous",
+            "explanation": "Used for actions that were in progress before another action in the past.",
+            "form": "Subject + had been + V-ing",
+            "examples": [
+                "I had been working for 5 hours when you called",
+                "She had been studying English before she moved",
+                "They had been playing football before it started raining"
+            ],
+            "translation": "Прошедшее совершенное длительное время - для действий, которые были в процессе до другого действия в прошлом."
+        },
+        {
+            "id": "future_perfect_continuous",
+            "title": "Future Perfect Continuous",
+            "explanation": "Used for actions that will be in progress before a specific time in the future.",
+            "form": "Subject + will have been + V-ing",
+            "examples": [
+                "I will have been working here for 5 years by next month",
+                "She will have been studying English for 2 years by December",
+                "They will have been playing football for 3 hours by 6 PM"
+            ],
+            "translation": "Будущее совершенное длительное время - для действий, которые будут в процессе к определенному времени в будущем."
+        }
+    ]
+} 

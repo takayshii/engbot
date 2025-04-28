@@ -1,0 +1,83 @@
+{
+    "easy": [
+        {
+            "word": "hello",
+            "translation": "привет",
+            "example": "Hello, how are you?"
+        },
+        {
+            "word": "goodbye",
+            "translation": "до свидания",
+            "example": "Goodbye, see you tomorrow!"
+        },
+        {
+            "word": "thank you",
+            "translation": "спасибо",
+            "example": "Thank you for your help."
+        },
+        {
+            "word": "please",
+            "translation": "пожалуйста",
+            "example": "Please help me."
+        },
+        {
+            "word": "sorry",
+            "translation": "извините",
+            "example": "I'm sorry for being late."
+        }
+    ],
+    "medium": [
+        {
+            "word": "opportunity",
+            "translation": "возможность",
+            "example": "This is a great opportunity to learn."
+        },
+        {
+            "word": "challenge",
+            "translation": "вызов",
+            "example": "Learning English is a challenge."
+        },
+        {
+            "word": "experience",
+            "translation": "опыт",
+            "example": "I have experience in teaching."
+        },
+        {
+            "word": "knowledge",
+            "translation": "знания",
+            "example": "Knowledge is power."
+        },
+        {
+            "word": "improve",
+            "translation": "улучшать",
+            "example": "I want to improve my English."
+        }
+    ],
+    "hard": [
+        {
+            "word": "accomplishment",
+            "translation": "достижение",
+            "example": "Learning a new language is a great accomplishment."
+        },
+        {
+            "word": "perseverance",
+            "translation": "настойчивость",
+            "example": "Success requires perseverance."
+        },
+        {
+            "word": "comprehensive",
+            "translation": "всесторонний",
+            "example": "This is a comprehensive guide to English grammar."
+        },
+        {
+            "word": "proficiency",
+            "translation": "мастерство",
+            "example": "I want to achieve proficiency in English."
+        },
+        {
+            "word": "articulate",
+            "translation": "четко выражать",
+            "example": "She can articulate her thoughts very well."
+        }
+    ]
+} 

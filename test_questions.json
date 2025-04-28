@@ -1,0 +1,87 @@
+{
+    "beginner": [
+        {
+            "question": "Choose the correct article: ___ book",
+            "options": ["a", "an", "the", "no article"],
+            "correct": "a",
+            "explanation": "Use 'a' before consonant sounds."
+        },
+        {
+            "question": "What is the plural of 'child'?",
+            "options": ["childs", "children", "childes", "child"],
+            "correct": "children",
+            "explanation": "'Children' is an irregular plural form."
+        },
+        {
+            "question": "Choose the correct preposition: I go ___ school every day",
+            "options": ["at", "in", "to", "on"],
+            "correct": "to",
+            "explanation": "Use 'to' for movement towards a place."
+        }
+    ],
+    "intermediate": [
+        {
+            "question": "Choose the correct tense: I ___ English for 5 years",
+            "options": ["study", "am studying", "have been studying", "studied"],
+            "correct": "have been studying",
+            "explanation": "Present Perfect Continuous is used for actions that started in the past and continue to the present."
+        },
+        {
+            "question": "Which sentence is correct?",
+            "options": [
+                "She can to swim",
+                "She can swim",
+                "She can swimming",
+                "She can swims"
+            ],
+            "correct": "She can swim",
+            "explanation": "After modal verbs, we use the base form of the verb without 'to'."
+        },
+        {
+            "question": "Choose the correct adjective order: ___ table",
+            "options": [
+                "wooden old beautiful round",
+                "beautiful old round wooden",
+                "round beautiful old wooden",
+                "old beautiful wooden round"
+            ],
+            "correct": "beautiful old round wooden",
+            "explanation": "The correct order is: opinion-age-shape-material."
+        }
+    ],
+    "advanced": [
+        {
+            "question": "Choose the correct tense: By next year, I ___ here for 10 years",
+            "options": [
+                "will work",
+                "will have worked",
+                "will have been working",
+                "will be working"
+            ],
+            "correct": "will have been working",
+            "explanation": "Future Perfect Continuous is used for actions that will be in progress before a specific time in the future."
+        },
+        {
+            "question": "Which sentence uses the correct conditional?",
+            "options": [
+                "If I will have time, I will help you",
+                "If I have time, I will help you",
+                "If I had time, I will help you",
+                "If I would have time, I will help you"
+            ],
+            "correct": "If I have time, I will help you",
+            "explanation": "First conditional uses present simple in the if-clause and future simple in the main clause."
+        },
+        {
+            "question": "Choose the correct reported speech: 'I am happy'",
+            "options": [
+                "He said he is happy",
+                "He said he was happy",
+                "He said he has been happy",
+                "He said he had been happy"
+            ],
+            "correct": "He said he was happy",
+            "explanation": "In reported speech, present simple changes to past simple."
+        }
+    ]
+} 

@@ -1,0 +1,116 @@
+[
+    {
+        "id": "articles",
+        "title": "Articles (a/an/the)",
+        "explanation": "Use 'a' before consonant sounds, 'an' before vowel sounds, 'the' for specific things.",
+        "examples": [
+            "a book",
+            "an apple",
+            "the sun"
+        ],
+        "translation": "Артикли - 'a' перед согласными, 'an' перед гласными, 'the' для конкретных предметов."
+    },
+    {
+        "id": "prepositions",
+        "title": "Prepositions",
+        "explanation": "Time: at 5 PM, on Monday, in July. Place: at home, in the park, on the table.",
+        "examples": [
+            "I will meet you at 5 PM",
+            "I work on Monday",
+            "I was born in July",
+            "I am at home",
+            "I am in the park",
+            "The book is on the table"
+        ],
+        "translation": "Предлоги - времени: at, on, in. Места: at, in, on."
+    },
+    {
+        "id": "countable",
+        "title": "Countable/Uncountable",
+        "explanation": "Countable: books, apples. Uncountable: water, information. Use 'some' with uncountable.",
+        "examples": [
+            "I have two books",
+            "I have some water",
+            "I need some information"
+        ],
+        "translation": "Исчисляемые: книги, яблоки. Неисчисляемые: вода, информация."
+    },
+    {
+        "id": "adjectives",
+        "title": "Adjectives Order",
+        "explanation": "Opinion-size-age-shape-color-origin-material-purpose.",
+        "examples": [
+            "beautiful big old round red Italian wooden dining table"
+        ],
+        "translation": "Порядок: мнение-размер-возраст-форма-цвет-происхождение-материал-назначение."
+    },
+    {
+        "id": "modal",
+        "title": "Modal Verbs",
+        "explanation": "Can (ability), must (obligation), should (advice), may (permission).",
+        "examples": [
+            "I can swim",
+            "You must study",
+            "You should exercise",
+            "You may go now"
+        ],
+        "translation": "Модальные глаголы: can (способность), must (обязанность), should (совет), may (разрешение)."
+    },
+    {
+        "id": "comparatives",
+        "title": "Comparatives",
+        "explanation": "Add -er/-est or use more/most.",
+        "examples": [
+            "big - bigger - biggest",
+            "beautiful - more beautiful - most beautiful"
+        ],
+        "translation": "Сравнительная степень: -er/-est или more/most."
+    },
+    {
+        "id": "questions",
+        "title": "Question Words",
+        "explanation": "Who (person), what (thing), where (place), when (time), why (reason), how (manner).",
+        "examples": [
+            "Who is that?",
+            "What is this?",
+            "Where are you?",
+            "When will you come?",
+            "Why are you late?",
+            "How are you?"
+        ],
+        "translation": "Вопросительные слова: who (кто), what (что), where (где), when (когда), why (почему), how (как)."
+    },
+    {
+        "id": "plural",
+        "title": "Plural Forms",
+        "explanation": "Add -s: book-books. Add -es: box-boxes. Change -y to -ies: city-cities. Irregular: child-children.",
+        "examples": [
+            "book - books",
+            "box - boxes",
+            "city - cities",
+            "child - children"
+        ],
+        "translation": "Множественное число: -s, -es, -ies, неправильные формы."
+    },
+    {
+        "id": "possessive",
+        "title": "Possessive Forms",
+        "explanation": "Add 's for singular: John's book. Add ' for plural: students' books. Use 'of' for things: the color of the sky.",
+        "examples": [
+            "John's book",
+            "students' books",
+            "the color of the sky"
+        ],
+        "translation": "Притяжательный падеж: 's для единственного числа, ' для множественного."
+    },
+    {
+        "id": "there",
+        "title": "There is/are",
+        "explanation": "Use 'there is' for singular, 'there are' for plural.",
+        "examples": [
+            "There is a book",
+            "There are two books"
+        ],
+        "translation": "There is для единственного числа, there are для множественного."
+    }
+] 

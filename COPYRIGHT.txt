@@ -1,0 +1,12 @@
+© 2025 Denis Aslyamov. All rights reserved.
+
+This project, FluentFox English Learning Bot, is protected under copyright law.
+
+You are free to:
+- Use the source code for personal and educational purposes.
+
+You are **not** allowed to:
+- Sell, redistribute, or sublicense the project without explicit permission.
+- Remove or alter any copyright notices.
+
+This project is licensed under the MIT License (see LICENSE file for details).
